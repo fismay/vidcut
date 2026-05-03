@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.server.pid
+.run.pid
+frontend/node_modules/
+frontend/dist/
+output/
+workspace/
+logs/
+models/

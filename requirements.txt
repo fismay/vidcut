@@ -1,0 +1,5 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+yt-dlp==2026.6.9
+requests==2.32.4
+faster-whisper==1.2.0
