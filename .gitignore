@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .env
 .env.*
+!.env.example
 .server.pid
 .run.pid
 frontend/node_modules/
